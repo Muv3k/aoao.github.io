@@ -1,0 +1,83 @@
+.comics_feed {
+  margin-left: 6.4vw; /* 24px Iphone X */ 
+  margin-top: 2.1vw; /* 8px */
+}
+
+.comics_uprating {
+
+  
+  color: white;
+  background-color: #3BB33B;
+  border-radius: 2vw; /*1.3125vw;*/ 
+  padding: 0.525vw;
+  width: 8.5vw;
+  text-align: center;
+}
+
+.title_size {
+	font-size: 130%;
+}
+
+.rating {
+  text-align: center;
+}
+
+.pic {
+  height: auto;
+}
+
+.buttonrating_size {
+  width: 11.2vw; 
+  height: 10.134vw; 
+}
+
+.card_in_panel {
+  width: 40vw; 
+  height: 58vw; 
+}
+
+.card_in_feed {
+  width: 40vw; 
+  height: 58vw; 
+	
+}
+
+.top_info {
+  
+  align-text: center;
+  
+}
+
+.ur_balance {
+  color: grey;
+  align-text: center;
+  font: 90% MS Reference Sans Serif; 
+}
+
+.white_rub_balance {
+  font-size: 200%;
+}
+
+.black_rub_balance {
+  color: black;
+  font-size: 200%;
+}
+
+.dollar_balance {
+  color: grey;
+  align-text: center;
+}
+.Block_center {
+  margin: 0 auto;
+}
+
+.text_menu{
+  font-size: 93%;
+  color: white;
+  text-decoration: none; /* Отменяем подчеркивание у ссылки */
+}
+
+.net_podcherkivania {
+  text-decoration: none; /* Отменяем подчеркивание у ссылки */
+
+}
