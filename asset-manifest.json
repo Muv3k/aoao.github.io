@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/aoao.github.io/static/css/main.cfd95f68.chunk.css",
+    "main.js": "/aoao.github.io/static/js/main.143df2e9.chunk.js",
+    "main.js.map": "/aoao.github.io/static/js/main.143df2e9.chunk.js.map",
+    "runtime-main.js": "/aoao.github.io/static/js/runtime-main.5453aa9f.js",
+    "runtime-main.js.map": "/aoao.github.io/static/js/runtime-main.5453aa9f.js.map",
+    "static/css/2.1e562f28.chunk.css": "/aoao.github.io/static/css/2.1e562f28.chunk.css",
+    "static/js/2.00d49839.chunk.js": "/aoao.github.io/static/js/2.00d49839.chunk.js",
+    "static/js/2.00d49839.chunk.js.map": "/aoao.github.io/static/js/2.00d49839.chunk.js.map",
+    "index.html": "/aoao.github.io/index.html",
+    "precache-manifest.03069c52e2be01c2ab0e647afe1c8688.js": "/aoao.github.io/precache-manifest.03069c52e2be01c2ab0e647afe1c8688.js",
+    "service-worker.js": "/aoao.github.io/service-worker.js",
+    "static/css/2.1e562f28.chunk.css.map": "/aoao.github.io/static/css/2.1e562f28.chunk.css.map",
+    "static/css/main.cfd95f68.chunk.css.map": "/aoao.github.io/static/css/main.cfd95f68.chunk.css.map",
+    "static/js/2.00d49839.chunk.js.LICENSE.txt": "/aoao.github.io/static/js/2.00d49839.chunk.js.LICENSE.txt",
+    "static/media/balance.png": "/aoao.github.io/static/media/balance.fce1a6ff.png",
+    "static/media/dollar.png": "/aoao.github.io/static/media/dollar.48dc4568.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5453aa9f.js",
+    "static/css/2.1e562f28.chunk.css",
+    "static/js/2.00d49839.chunk.js",
+    "static/css/main.cfd95f68.chunk.css",
+    "static/js/main.143df2e9.chunk.js"
+  ]
+}
